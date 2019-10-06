@@ -1,3 +1,4 @@
 after command "git add git_add_file1.txt"
 added some text to "git_add_file1.txt file".
 this used to used for diff command.
+run the command again "git add git_add_file1.txt"
