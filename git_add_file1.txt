@@ -2,3 +2,14 @@ after command "git add git_add_file1.txt"
 added some text to "git_add_file1.txt file".
 this used to used for diff command.
 run the command again "git add git_add_file1.txt"
+
+-----modified for pull request------
+This is for pull request
+after uploading file on git using 
+"git push -u origin master"
+
+use "git pull  https://github.com/sivaemail1122/first.git"
+"https://github.com/sivaemail1122/first.git" is the url
+for referring the git remote path 
+
+after modifing file do the commit
